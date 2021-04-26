@@ -1,0 +1,4 @@
+[submodule "book"]
+	path = book
+	url = https://github.com/modi/systemsapproach-book.git
+	branch = build
